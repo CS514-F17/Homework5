@@ -16,7 +16,7 @@ import com.google.gson.JsonParser;
 public class DonTest {
 	private static final String undergrad = "{\"name\":\"Jenny\", \"id\":20398776, \"gpa\":3.4, \"year\":\"Junior\" }";
 	private static final String grad = "{\"name\":\"Bob\", \"id\":20398777, \"gpa\":3.4, \"undergrad_uni\":\"Mills College\" }";
-	private static final String faculty = "{\"name\":\"Henry\", \"id\":20398778, \"gpa\":3.4, \"salary\": 108564 }";
+	private static final String faculty = "{\"name\":\"Henry\", \"id\":20398778, \"salary\": 108564 }";
 	
 	private static final String undergrad2 = "{\"name\":\"Jenny\", \"id\":20398779, \"gpa\":3.4, \"year\":\"Junior\" }";
 	private static final String grad2 = "{\"name\":\"Carlos\", \"id\":20398790, \"gpa\":3.4, \"undergrad_uni\":\"Mills College\" }";
